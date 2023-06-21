@@ -10,4 +10,4 @@ CENG501 deep learning course (Graduate Level Deep Learning Course Hmw- Assignmen
 6. Convolutional neural networks; Restricted Boltzmann Machines;
 7. Deep Belief networks;
 8. Applications to pattern recognition, speech recognition and natural language processing.
-
+9. Representation learning, Attention and introduction to Deep Reinforcement Learning
